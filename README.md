@@ -8,3 +8,5 @@ test git & github connect
 ## test4
 
 ## test5 conflict no pull origin
+
+## test6 test git commit error
